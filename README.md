@@ -30,6 +30,7 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 ## Download
 ```
+git clone git@github.com:Im087/ToDoMVC.git
 ```
 
 ## Install dependencies
